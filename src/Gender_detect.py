@@ -8,7 +8,7 @@ import numpy as np
 import ChineseText
 
 
-img = cv2.imread("data/images/gather.png")
+img = cv2.imread("../data/images/18.jpg")
 face_classifier = cv2.CascadeClassifier(
     "D:/SoftWare/opencv/opencv/sources/data/haarcascades/haarcascade_frontalface_default.xml"   #切换至本地路径
 )

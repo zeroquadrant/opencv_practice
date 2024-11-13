@@ -4,7 +4,7 @@ import face_recognition
 from PIL import Image, ImageDraw
 
 #加载图片到numpy array
-image = face_recognition.load_image_file("../data/images/5.jpg")
+image = face_recognition.load_image_file("../data/images/10.png")
 
 #标识脸部特征
 face_landmarks_list = face_recognition.face_landmarks(image)
