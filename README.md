@@ -1,5 +1,5 @@
 # opencv_practice
-该项目通过复现 [faceai](https://github.com/vipstone/faceai/tree/master) 练习opencv。     
+***该项目通过复现 [faceai](https://github.com/vipstone/faceai/tree/master) 练习opencv。***     
      
 入门级 AI 项目，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）等等。
 
