@@ -25,7 +25,43 @@
 
 ----------
 
+# 功能预览 #
 
+**绘制脸部轮廓**
+
+<img src="https://raw.githubusercontent.com/vipstone/faceai/master/res/face_recognition-outline.png" width = "250" height = "300" alt="绘制脸部轮廓" />
+
+----------
+
+**头像特效合成**
+
+<img src="https://raw.githubusercontent.com/vipstone/faceai/master/res/compose.png" width = "200" height = "300" alt="头像特效合成"  />
+
+----------
+
+**性别识别**
+
+<img src="https://raw.githubusercontent.com/vipstone/faceai/master/res/gender.png" width = "430" height = "220" alt="性别识别"  />
+
+----------
+
+**表情识别**
+
+<img src="https://raw.githubusercontent.com/vipstone/faceai/master/res/emotion.png" width = "250" height = "300" alt="表情识别"  />
+
+----------
+
+**数字化妆**
+
+<img src="https://raw.githubusercontent.com/vipstone/faceai/master/res/faceRecognitionMakeup-1.png" width = "450" height = "300" alt="视频人脸识别"  />
+
+----------
+
+**视频（监控）人脸检测与识别**
+
+大家可以自己去试试，还是很有趣的，这里我就不放演示视频了。
+
+----------
 
 # 技术方案 #
 
